@@ -1,10 +1,10 @@
 {
   "name": "each-component",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Array / object / string iteration utility",
   "dependencies": {
-    "type-component": "*",
-    "to-function": "*"
+    "type-component": "0.0.1",
+    "to-function": "component/to-function#1.2.1"
   },
   "browser": {
     "type": "node_modules/component-type/index.js",
